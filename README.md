@@ -1,2 +1,5 @@
 # phoenix
-Hack Bio Internship
+Hack Bio Internship 
+Team Phoenix
+Contributors: 
+Sanjana Fatema Chowdhury
