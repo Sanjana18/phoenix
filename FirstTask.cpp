@@ -20,7 +20,7 @@ int main()
     string biostack = "Drug development";
     string twitter = "SanjanaFatema";
     cout<<name<<"," <<email<<"," <<slack_username<<"," <<biostack<<"," <<twitter<<endl;
-    cout<<"Hamming Distance: "<<Hamming_distance(name,twitter)<<endl;
+    cout<<"Hamming Distance: "<<Hamming_distance(slack_username,twitter)<<endl;
 
     return 0;
 }
